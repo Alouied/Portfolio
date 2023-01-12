@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/087f2682-ada4-4517-9743-8690e9737c5e/AppServices/subscriptions/087f2682-ada4-4517-9743-8690e9737c5e/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/alouiMedamine",
+    "appService.deploySubpath": "."
+}
